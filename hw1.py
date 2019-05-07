@@ -26,3 +26,14 @@ for i in ViaX:
     print(i)
 
 print(''abbcbbc'')
+
+abbcbbc
+ellllee
+
+llllll
+
+
+
+
+
+
