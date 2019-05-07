@@ -15,4 +15,4 @@ for i in ViaX:
 print(newlist)
 #3. TODO...
 for i in ViaX:
-    print(i)
+
