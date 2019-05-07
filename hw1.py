@@ -10,9 +10,5 @@ ViaX = ['aaaaa                aaaa', 'aa  aaa            aa  aa', 'aa   aa      
 print(len(ViaX))
 #2. TODO...
 newlist = []
-for i in ViaX:
-    newlist.append(len(i))
-print(newlist)
-#3. TODO...
-for i in ViaX:
+
 
