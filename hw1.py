@@ -26,3 +26,10 @@ for i in ViaX:
     print(i)
 
 print(''abbcbbc'')
+
+
+master write something
+
+something wrong
+
+something right
