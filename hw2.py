@@ -7,19 +7,12 @@ ViaX = ['aaaaa                aaaa', 'aa  aaa            aa  aa', 'aa   aa      
     3. 将x的结果一行行print出来
 '''
 #1. TODO...
-
 print(len(ViaX))
 #2. TODO...
 newlist = []
-
-
-class ClassName(object):
-    """docstring for ClassName"""
-    def __init__(self, arg):
-        super(ClassName, self).__init__()
-        self.arg = arg
-        
+for i in ViaX:
     newlist.append(len(i))
 print(newlist)
 #3. TODO...
 for i in ViaX:
+    something difference
