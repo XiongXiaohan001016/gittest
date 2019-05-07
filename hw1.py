@@ -23,3 +23,6 @@ class ClassName(object):
 print(newlist)
 #3. TODO...
 for i in ViaX:
+    print(i)
+
+print(''abbcbbc'')
